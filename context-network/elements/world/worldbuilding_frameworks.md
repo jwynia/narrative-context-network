@@ -267,6 +267,62 @@ A framework for creating believable and internally consistent ecologies, particu
 - Develop ecological histories, including extinction events
 - Create realistic environmental challenges and responses
 
+#### 4. Religious System Development Framework
+
+A framework for creating cohesive, culturally integrated belief systems that shape societies and individual identities.
+
+**Core Components:**
+1. **Object of Worship:** Deities, forces, ancestors, or philosophical concepts at the center of belief
+2. **Theological Structure:** Cosmology, metaphysics, and core doctrines that frame the belief system
+3. **Religious Practices:** Rituals, ceremonies, prayers, and other expressions of faith
+4. **Social Organization:** Religious hierarchies, roles, and institutional structures
+5. **Ethical Framework:** Moral codes, taboos, and value systems derived from beliefs
+6. **Historical Development:** Origins, reforms, schisms, and adaptations over time
+7. **Cultural Integration:** How religion intersects with language, art, politics, and daily life
+
+**Typological Models:**
+- **Church-Sect-Mysticism Triad:** Institutional hierarchies (church) vs. voluntary protest movements (sect) vs. individualized spirituality (mysticism)
+- **Belief System Orientation:** World-affirming (embraces society) vs. world-accommodating (balances engagement and critique) vs. world-rejecting (opposes prevailing norms)
+- **Evolutionary Frameworks:** Development from animistic beliefs to organized religions to philosophical systems
+
+**Development Guidelines:**
+- Create distinct patterns for how geography and environment shape religious practices
+- Consider relationships between religious institutions and political powers
+- Develop multiple religious perspectives with varying degrees of orthodoxy
+- Design religious conflicts that reflect deeper societal tensions
+- Create consistent religious symbolism across art, architecture, and language
+- Consider how economic conditions influence religious expression
+- Develop the tension between "true metaphysics" of your world and what adherents believe
+
+#### 5. Economic System Development Framework
+
+A framework for creating believable economic structures that shape resource distribution, power dynamics, and daily life.
+
+**Core Components:**
+1. **Resource Base:** What goods or services are produced and how they are valued
+2. **Production Methods:** Who controls means of production and how labor is organized
+3. **Distribution Systems:** How goods and services are allocated throughout society
+4. **Exchange Mechanisms:** Barter, currency systems, or alternative exchange forms
+5. **Economic Institutions:** Banks, guilds, markets, and regulatory bodies
+6. **Scarcity Patterns:** Which resources are limited and how this drives economic activity
+7. **Class Structures:** How economic roles create social stratification
+
+**Economic System Types:**
+- **Resource-Extraction Economies:** Focused on mining, farming, or harvesting primary resources
+- **Manufacturing Economies:** Centered on transforming materials into goods
+- **Service Economies:** Based on providing intangible services and specialized skills
+- **Mixed Economies:** Combinations of market forces and centralized planning
+- **Alternative Systems:** Gift economies, magical economies, post-scarcity systems
+
+**Development Guidelines:**
+- Analyze how geography determines resource distribution
+- Consider technological level's impact on production capabilities
+- Develop realistic trade networks based on complementary needs
+- Create economic institutions that reflect cultural values
+- Design economic conflicts that drive narrative tension
+- Consider the relationship between economic and political power
+- Integrate magical or fantastical elements coherently into economic systems
+
 ### Application Guidelines
 
 #### Worldbuilding Project Process

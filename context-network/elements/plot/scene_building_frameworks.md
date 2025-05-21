@@ -375,6 +375,39 @@ This framework addresses how and when to reveal critical information for maximum
 4. Layer clues appropriately before major revelations
 5. Ensure character reactions match revelation significance
 
+#### 6. Emotional Resonance Mapping Framework
+
+This framework provides a systematic approach to designing, tracking, and optimizing the emotional journey of a narrative to create powerful audience engagement.
+
+**Core Components:**
+1. **Emotional Arc:** The overall emotional journey across the narrative
+2. **Emotional Shifts:** Strategic changes in emotional states that maintain engagement
+3. **Emotional Intensity:** The varying levels of emotional impact throughout the narrative
+4. **Emotional Variety:** The range of different emotions experienced
+5. **Character-Specific Emotions:** Tracking emotional journeys for different characters
+
+**Mapping Techniques:**
+1. **Visual Timeline Tracking:** Creating visual representations of emotional arcs
+2. **Intensity Graphing:** Plotting emotional intensity points throughout the narrative
+3. **Emotion Type Color-Coding:** Using distinct colors to track different emotion types
+4. **Multi-Character Mapping:** Developing parallel emotional arcs for multiple characters
+5. **Scene-by-Scene Emotional States:** Cataloging primary and secondary emotions in each scene
+
+**Emotional Shift Strategies:**
+1. **Contrast:** Juxtaposing contrasting emotions for maximum impact
+2. **Gradual Builds:** Slowly intensifying emotions toward climactic moments
+3. **Unexpected Turns:** Creating surprising emotional shifts that subvert expectations
+4. **Rhythmic Patterns:** Establishing consistent emotional rhythms then breaking them
+5. **Resolution Shifts:** Transforming emotions during resolution phases
+
+**Application Process:**
+1. Identify desired primary emotional experience for the overall narrative
+2. Map initial emotional states, key shifts, and final emotional states
+3. Analyze scene-by-scene emotional progression for pacing and variety
+4. Identify opportunities for emotional contrast and resonance
+5. Refine emotional intensity curves for optimal engagement
+6. Verify that emotional shifts align with character arcs and thematic elements
+
 ### Scene Analysis and Evaluation Frameworks
 
 These frameworks provide methods for evaluating and improving existing scenes.

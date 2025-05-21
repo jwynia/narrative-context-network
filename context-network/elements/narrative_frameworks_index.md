@@ -129,6 +129,7 @@ This document provides approaches to constructing effective plot structures and 
   - Transmedia Storytelling Framework
   - Genre-Specific Plot Frameworks
   - Cross-Cultural Storytelling Frameworks
+  - Interactive Narrative Frameworks
 
 - **Scene Analysis and Evaluation Frameworks:**
   - Scene Purpose Verification Framework
@@ -136,6 +137,36 @@ This document provides approaches to constructing effective plot structures and 
   - Scene-Level Character Agency Framework
   - Scene Setting Integration Framework
   - Scene Dialogue Effectiveness Framework
+
+#### Interactive Narrative Frameworks
+Located in: `elements/plot/interactive_narrative_frameworks.md`
+
+This document examines approaches to developing choice-based storytelling, branching narratives, and systems for user agency in interactive media:
+
+- **Foundational Interactive Narrative Structures:**
+  - Linear with Interactive Elements Framework
+  - Branching Narrative Framework
+  - Parallel Narrative Framework
+
+- **Choice Design Frameworks:**
+  - Meaningful Choice Architecture
+  - Consequence Mapping System
+  - Decision Point Architecture
+
+- **Technical Implementation Frameworks:**
+  - Drama Management System Framework
+  - Branch Management Framework
+  - State Tracking Architecture
+
+- **Agency Management Frameworks:**
+  - Agency Balancing Framework
+  - Cognitive Load Management Framework
+  - Narrative Coherence Preservation Framework
+
+- **Integration Approaches:**
+  - Medium-Specific Integration Framework
+  - Hybrid Narrative Structures
+  - Transmedia Implementation Framework
 
 #### Cross-Cultural Storytelling Frameworks
 Located in: `elements/plot/cross_cultural_storytelling_frameworks.md`

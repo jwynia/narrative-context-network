@@ -20,6 +20,7 @@ graph TD
     NF[Narrative Frameworks] --> WF[Worldbuilding Frameworks]
     NF --> CN[Character Naming Frameworks]
     NF --> PSB[Plot & Scene Building Frameworks]
+    NF --> EDF[Environmental Design Frameworks]
     
     WF --> WP[Worldbuilding Principles]
     WF --> WS[Structural Frameworks]
@@ -35,9 +36,47 @@ graph TD
     PSB --> SB[Scene Building]
     PSB --> PD[Plot Development]
     PSB --> SA[Scene Analysis]
+    
+    EDF --> EP[Core Design Principles]
+    EDF --> EU[Urban Frameworks]
+    EDF --> ER[Rural Frameworks]
+    EDF --> EI[Integration Methodology]
 ```
 
 ### Framework Categories
+
+#### Environmental Design Frameworks
+Located in: `elements/settings/environmental_design_frameworks.md`
+
+This document provides specialized frameworks for developing urban and rural settings and how environments shape narrative elements:
+
+- **Core Design Principles:**
+  - Composition & Staging
+  - Multi-sensory Engagement
+  - Environmental Personification
+  - Emotional Resonance
+
+- **Urban Environmental Design Framework:**
+  - Structural Elements (Density and Verticality, Grid Systems and Disruption, Boundaries and Thresholds)
+  - Atmospheric Elements (Technological Integration, Sensory Density, Artificial Lighting)
+  - Social Elements (Crowds and Anonymity, Social Friction Points, Visible Infrastructure)
+
+- **Rural Environmental Design Framework:**
+  - Structural Elements (Expansiveness and Horizontality, Negative Space, Natural Boundaries)
+  - Atmospheric Elements (Natural Integration, Diurnal and Seasonal Cycles, Organic Soundscapes)
+  - Social Elements (Historical Continuity, Simplicity and Authenticity, Community Visibility)
+
+- **Narrative Impact Frameworks:**
+  - Character Development Frameworks (Urban and Rural)
+  - Pacing and Tension Frameworks (Urban and Rural)
+  - Thematic Expression Frameworks (Urban and Rural)
+
+- **Implementation Methodology:**
+  - Setting Analysis Process
+  - Framework Selection Process
+  - Environmental Development Process
+  - Narrative Integration Process
+  - Review and Refinement Process
 
 #### Worldbuilding Frameworks
 Located in: `elements/world/worldbuilding_frameworks.md`
@@ -291,6 +330,7 @@ These frameworks are designed to work together as an integrated system, with mul
   - [elements/world/worldbuilding_frameworks.md] - details - Worldbuilding frameworks
   - [elements/characters/naming_frameworks.md] - details - Character naming frameworks
   - [elements/plot/scene_building_frameworks.md] - details - Plot and scene building frameworks
+  - [elements/settings/environmental_design_frameworks.md] - details - Environmental design frameworks
 - **Related Nodes:** 
   - [elements/world/overview.md] - enhances - Frameworks enhance worldbuilding approach
   - [elements/characters/overview.md] - enhances - Frameworks enhance character development

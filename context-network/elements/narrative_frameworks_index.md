@@ -169,6 +169,7 @@ This document provides approaches to constructing effective plot structures and 
   - Genre-Specific Plot Frameworks
   - Cross-Cultural Storytelling Frameworks
   - Interactive Narrative Frameworks
+  - Digital-Era Narrative Frameworks
 
 - **Scene Analysis and Evaluation Frameworks:**
   - Scene Purpose Verification Framework
@@ -206,6 +207,40 @@ This document examines approaches to developing choice-based storytelling, branc
   - Medium-Specific Integration Framework
   - Hybrid Narrative Structures
   - Transmedia Implementation Framework
+
+#### Digital-Era Narrative Frameworks
+Located in: `elements/plot/digital_era_narrative_frameworks.md`
+
+This document compiles frameworks for understanding and implementing narrative techniques shaped by modern technology, social media, digital communication, and virtual worlds:
+
+- **Social Media Narrative Integration Frameworks:**
+  - Three-Act Structure for Social Media
+  - Freytag's Pyramid Adaptation for Short-Form Content
+  - Before-After-Bridge Framework
+  - Problem-Agitate-Solve Framework
+  - Hero's Journey Adaptation for Brand Storytelling
+
+- **Digital Communication Representation Systems:**
+  - Multimedia Integration Framework
+  - User-Generated Content Integration System
+  - Transmedia Storytelling Framework
+
+- **Virtual World Narrative Structure Frameworks:**
+  - Storyliving Framework
+  - Non-Linear Progression Systems
+  - Guided Discovery Framework
+  - Agency and Interaction Framework
+
+- **Contemporary Technology Integration Guidelines:**
+  - Seven-Element Approach to Digital Storytelling
+  - Technological Abstraction Framework
+  - Cross-Platform Narrative Consistency Framework
+
+- **Attention Optimization Frameworks:**
+  - Micro-Narrative Structure Framework
+  - Visual-First Content Hierarchy
+  - Episodic Content with Cliffhanger Integration
+  - Neurological Engagement Optimization Framework
 
 #### Cross-Cultural Storytelling Frameworks
 Located in: `elements/plot/cross_cultural_storytelling_frameworks.md`

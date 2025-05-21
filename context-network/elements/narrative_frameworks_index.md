@@ -170,6 +170,7 @@ This document provides approaches to constructing effective plot structures and 
   - Cross-Cultural Storytelling Frameworks
   - Interactive Narrative Frameworks
   - Digital-Era Narrative Frameworks
+  - Visual Storytelling Frameworks
 
 - **Scene Analysis and Evaluation Frameworks:**
   - Scene Purpose Verification Framework

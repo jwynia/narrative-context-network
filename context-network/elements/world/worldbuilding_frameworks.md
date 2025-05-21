@@ -323,6 +323,37 @@ A framework for creating believable economic structures that shape resource dist
 - Consider the relationship between economic and political power
 - Integrate magical or fantastical elements coherently into economic systems
 
+#### 6. Linguistic Development Framework
+
+A framework for creating realistic constructed languages (conlangs) that enhance worldbuilding by reflecting cultural values and historical development.
+
+**Core Components:**
+1. **Phonetic Foundation:** Sound inventory and phonological rules
+2. **Morphological System:** Word formation principles and patterns
+3. **Syntactic Structure:** Grammar rules and sentence construction
+4. **Semantic Framework:** Meaning systems and conceptual organization
+5. **Pragmatic Elements:** How context affects language usage
+6. **Writing System:** Visual representation of the language
+7. **Historical Evolution:** How the language changes over time
+
+**Development Process:**
+1. **Goal Setting:** Define the purpose and aesthetic of the language
+2. **Sound Selection:** Establish consonants, vowels, and phonotactic rules
+3. **Grammar Construction:** Develop word order, case systems, and conjugations
+4. **Vocabulary Building:** Create core lexicon reflecting culture and environment
+5. **Writing Development:** Design script or adaptation of existing systems
+6. **Dialectal Variation:** Create regional or social language differences
+7. **Historical Layering:** Establish language evolution and borrowing patterns
+
+**Application Guidelines:**
+- Align linguistic features with the culture and environment of speakers
+- Create consistent internal rules that follow natural language patterns
+- Develop language families and relationships between different languages
+- Consider how language influences and is influenced by social structures
+- Design language contact zones and pidgins/creoles where appropriate
+- Ensure names and terminology follow established linguistic rules
+- Create realistic linguistic evolution that mirrors historical development
+
 ### Application Guidelines
 
 #### Worldbuilding Project Process

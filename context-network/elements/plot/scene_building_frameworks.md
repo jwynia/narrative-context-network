@@ -408,6 +408,40 @@ This framework provides a systematic approach to designing, tracking, and optimi
 5. Refine emotional intensity curves for optimal engagement
 6. Verify that emotional shifts align with character arcs and thematic elements
 
+#### 7. Transmedia Storytelling Framework
+
+This framework provides methodologies for developing narratives that extend across multiple platforms and media formats to create immersive story worlds.
+
+**Core Components:**
+1. **Story World:** The comprehensive universe in which multiple narratives can exist
+2. **Platform-Specific Elements:** Content designed for particular media channels
+3. **Narrative Synchronization:** Coordination of story elements across platforms
+4. **Entry Points:** Multiple ways for audiences to access the story world
+5. **Audience Engagement:** Interactive elements that allow participation
+6. **Expansion Patterns:** Methods for growing the narrative across platforms
+
+**Media Integration Approaches:**
+1. **Narrative Continuity:** Direct story continuation across platforms
+2. **Parallel Storytelling:** Simultaneous narrative threads on different platforms
+3. **Peripheral Content:** Supplementary material that enriches the main narrative
+4. **Environmental Storytelling:** World-building elements across platforms
+5. **Character Perspective Shifts:** Different character viewpoints on different platforms
+
+**Development Strategies:**
+1. **Medium-Specific Optimization:** Leveraging the strengths of each platform
+2. **Balanced Independence:** Making each element enjoyable independently while enhancing the whole
+3. **Strategic Revelation:** Distributing information across platforms to encourage exploration
+4. **Community Building:** Creating spaces for audience interaction and participation
+5. **World Extension:** Systematically expanding the narrative universe over time
+
+**Application Process:**
+1. Identify the core narrative and story world fundamentals
+2. Map platform-specific strengths and audience engagement patterns
+3. Design narrative components for each platform/medium
+4. Establish synchronization points across different media elements
+5. Create balanced narrative rewards for cross-platform engagement
+6. Develop community engagement strategies to sustain long-term participation
+
 ### Scene Analysis and Evaluation Frameworks
 
 These frameworks provide methods for evaluating and improving existing scenes.

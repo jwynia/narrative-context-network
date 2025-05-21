@@ -68,6 +68,7 @@ This document compiles frameworks for creating cohesive, believable, and engagin
   - Ecological Worldbuilding Framework
   - Religious System Development Framework
   - Economic System Development Framework
+  - Linguistic Development Framework
 
 #### Character Naming Frameworks
 Located in: `elements/characters/naming_frameworks.md`
@@ -125,6 +126,7 @@ This document provides approaches to constructing effective plot structures and 
   - Plot Complication Framework
   - Narrative Reveal Framework
   - Emotional Resonance Mapping Framework
+  - Transmedia Storytelling Framework
 
 - **Scene Analysis and Evaluation Frameworks:**
   - Scene Purpose Verification Framework

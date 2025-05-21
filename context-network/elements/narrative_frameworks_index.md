@@ -127,6 +127,8 @@ This document provides approaches to constructing effective plot structures and 
   - Narrative Reveal Framework
   - Emotional Resonance Mapping Framework
   - Transmedia Storytelling Framework
+  - Genre-Specific Plot Frameworks
+  - Cross-Cultural Storytelling Frameworks
 
 - **Scene Analysis and Evaluation Frameworks:**
   - Scene Purpose Verification Framework
@@ -134,6 +136,36 @@ This document provides approaches to constructing effective plot structures and 
   - Scene-Level Character Agency Framework
   - Scene Setting Integration Framework
   - Scene Dialogue Effectiveness Framework
+
+#### Cross-Cultural Storytelling Frameworks
+Located in: `elements/plot/cross_cultural_storytelling_frameworks.md`
+
+This document examines narrative structures and approaches from diverse cultural traditions, providing alternatives to Western storytelling conventions:
+
+- **Universal and Cross-Cultural Patterns:**
+  - Monomyth (Hero's Journey) with Cultural Variations
+  - In Medias Res Applications Across Cultures
+  - Petal Structure Framework
+
+- **Indigenous Oral Traditions:**
+  - Story Circles Framework
+  - Cyclical Time Narrative Structure
+  - Transformation & Fluidity Framework
+  - Rhythmic Repetition & Audience Engagement Model
+  - Active Natural World Narrative Approach
+
+- **Eastern Storytelling Patterns:**
+  - Collective Experience Focus Framework
+  - Ambiguity and Open-Ended Resolution Approach
+  - Non-Linear Temporal Structures
+
+- **Comparative Framework Applications:**
+  - Narrative Progression Spectrum (Linear vs. Cyclical/Non-Linear)
+  - Focus Spectrum: Individual vs. Collective
+  - Time Management Spectrum (Chronological vs. Layered/Blended)
+  - Resolution Spectrum (Clear vs. Open-Ended/Ambiguous)
+  - Environmental Role Spectrum (Background vs. Active Participant)
+  - Audience Role Spectrum (Passive Recipient vs. Engaged Co-Author)
 
 ### Integration Points
 

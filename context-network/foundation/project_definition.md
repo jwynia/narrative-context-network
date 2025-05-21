@@ -1,7 +1,7 @@
-# Project Definition
+# Narrative Project Definition
 
 ## Purpose
-This document defines the core purpose, goals, and scope of the project.
+This document defines the core purpose, goals, and scope of the narrative project, including key elements of storytelling, worldbuilding, and audience engagement.
 
 ## Classification
 - **Domain:** Core Concept
@@ -13,88 +13,154 @@ This document defines the core purpose, goals, and scope of the project.
 
 ### Project Overview
 
-[Provide a concise overview of the project, including its name, purpose, and high-level description]
+[Provide a concise overview of the narrative project, including its title, format (novel, short story, RPG, interactive fiction, etc.), and high-level concept]
+
+### Narrative Type
+
+- **Primary Medium:** [Novel/Series, Short Story, RPG Game/Module, Narrative Game, Interactive Fiction, etc.]
+- **Genre:** [Fantasy, Science Fiction, Horror, Mystery, etc.]
+- **Target Audience:** [Age range, interests, experience level (for games)]
+- **Format Details:** [Word count target, game system (for RPGs), platform (for digital), etc.]
 
 ### Vision Statement
 
-[A clear, concise statement of the project's ultimate goal and intended impact]
+[A clear, concise statement of the project's ultimate goal and intended impact on the audience]
 
 ### Mission Statement
 
-[A statement describing what the project does, for whom, and the value it provides]
+[A statement describing what kind of story or experience the project delivers, for whom, and the value it provides]
 
-### Project Objectives
+### Narrative Objectives
 
-1. [Objective 1]
-2. [Objective 2]
-3. [Objective 3]
+1. [Primary emotional response or experience to evoke]
+2. [Key themes to explore]
+3. [Story elements to highlight]
+4. [Worldbuilding goals]
+5. [Character development objectives]
 
 ### Success Criteria
 
-1. [Criterion 1]
-2. [Criterion 2]
-3. [Criterion 3]
+1. [Audience engagement metrics]
+2. [Storytelling effectiveness measures]
+3. [Worldbuilding cohesion goals]
+4. [Character resonance targets]
+5. [Mechanical objectives (for games)]
 
 ### Project Scope
 
 #### In Scope
 
-- [Item 1]
-- [Item 2]
-- [Item 3]
+- **Narrative Elements:**
+  - [Character types/arcs]
+  - [Plot elements]
+  - [Setting details]
+  - [Worldbuilding depth]
+  
+- **Production Details:**
+  - [Deliverable format(s)]
+  - [Supplementary materials]
+  - [Illustrations/maps/visuals]
+  - [Audio elements (if applicable)]
 
 #### Out of Scope
 
-- [Item 1]
-- [Item 2]
-- [Item 3]
+- [Story elements intentionally excluded]
+- [Worldbuilding aspects not developed]
+- [Format limitations]
+- [Content restrictions]
 
-### Stakeholders
+### Creative Team & Stakeholders
 
 | Role | Responsibilities | Representative(s) |
 |------|-----------------|-------------------|
-| [Role 1] | [Responsibilities] | [Name(s)] |
-| [Role 2] | [Responsibilities] | [Name(s)] |
-| [Role 3] | [Responsibilities] | [Name(s)] |
+| [Author/Designer] | [Core creative direction] | [Name(s)] |
+| [Editor/Developer] | [Refinement, balancing, consistency] | [Name(s)] |
+| [Publisher/Platform] | [Distribution, marketing] | [Name(s)] |
+| [Illustrator/Visual Artist] | [Visual elements] | [Name(s)] |
+| [Audience Representative] | [Feedback, testing] | [Name(s)] |
 
-### Timeline
+### Creative Timeline
 
 | Milestone | Target Date | Description |
 |-----------|------------|-------------|
-| [Milestone 1] | [Date] | [Description] |
-| [Milestone 2] | [Date] | [Description] |
-| [Milestone 3] | [Date] | [Description] |
+| [Concept Development] | [Date] | [World, character, and plot conceptualization] |
+| [Outline/Treatment] | [Date] | [Structural development of narrative] |
+| [First Draft/Prototype] | [Date] | [Initial creation of core content] |
+| [Feedback/Playtesting] | [Date] | [Review and audience testing phase] |
+| [Revision/Refinement] | [Date] | [Adjustments based on feedback] |
+| [Final Production] | [Date] | [Completion of narrative content] |
+| [Release/Publication] | [Date] | [Distribution to audience] |
 
-### Budget and Resources
+### Resources
 
-[Overview of budget allocation and key resources]
+**Creative Resources:**
+- [Reference materials]
+- [Artistic assets]
+- [Technical tools]
+- [Research materials]
+
+**Production Resources:**
+- [Time allocation]
+- [Budget allocation]
+- [Team availability]
+- [Technical requirements]
 
 ### Constraints
 
-[List of known constraints that may impact the project]
+- **Narrative Constraints:**
+  - [Word count/length limitations]
+  - [Format requirements]
+  - [Genre conventions to observe]
+  - [Audience expectations]
+
+- **Production Constraints:**
+  - [Deadline pressures]
+  - [Resource limitations]
+  - [Technical boundaries]
 
 ### Assumptions
 
-[List of assumptions made in planning the project]
+- **Narrative Assumptions:**
+  - [Audience familiarity with genre]
+  - [Reader/player engagement level]
+  - [Setting knowledge required]
+
+- **Production Assumptions:**
+  - [Creation timeline feasibility]
+  - [Resource availability]
+  - [Skill requirements]
 
 ### Risks
 
-[Initial identification of high-level risks]
+- **Narrative Risks:**
+  - [Worldbuilding inconsistencies]
+  - [Character development issues]
+  - [Plot hole potential]
+  - [Audience reception concerns]
+
+- **Production Risks:**
+  - [Timeline challenges]
+  - [Resource shortfalls]
+  - [Technical complications]
+  - [Market/audience shifts]
 
 ## Relationships
 - **Parent Nodes:** None
 - **Child Nodes:** 
-  - [foundation/structure.md] - implements - Structural implementation of project goals
-  - [foundation/principles.md] - guides - Principles that guide project execution
+  - [foundation/structure.md] - implements - Structural implementation of narrative goals
+  - [foundation/principles.md] - guides - Storytelling principles that guide project execution
 - **Related Nodes:** 
-  - [planning/roadmap.md] - details - Specific implementation plan for project goals
-  - [planning/milestones.md] - schedules - Timeline for achieving project objectives
+  - [elements/world/overview.md] - details - Worldbuilding foundation
+  - [elements/characters/overview.md] - details - Character development
+  - [elements/plot/overview.md] - details - Narrative structure and events
+  - [planning/roadmap.md] - details - Specific implementation plan for narrative goals
+  - [planning/milestones.md] - schedules - Timeline for achieving narrative objectives
 
 ## Navigation Guidance
-- **Access Context:** Use this document when needing to understand the fundamental purpose and scope of the project
-- **Common Next Steps:** After reviewing this definition, typically explore structure.md or principles.md
-- **Related Tasks:** Strategic planning, scope definition, stakeholder communication
-- **Update Patterns:** This document should be updated when there are fundamental changes to project direction or scope
+- **Access Context:** Use this document when needing to understand the fundamental purpose and scope of the narrative project
+- **Common Next Steps:** After reviewing this definition, typically explore structure.md for narrative organization, world/overview.md for setting details, or characters/overview.md for cast information
+- **Related Tasks:** Narrative planning, scope definition, audience targeting, creative team coordination
+- **Update Patterns:** This document should be updated when there are fundamental changes to narrative direction, format, or scope
 
 ## Metadata
 - **Created:** [Date]
@@ -102,4 +168,4 @@ This document defines the core purpose, goals, and scope of the project.
 - **Updated By:** [Role/Agent]
 
 ## Change History
-- [Date]: Initial creation of project definition template
+- [Date]: Initial creation of narrative project definition template

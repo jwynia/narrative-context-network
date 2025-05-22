@@ -62,6 +62,49 @@ The context network should be maintained according to the following schedule:
 2. Split overly large nodes into more focused components
 3. Consolidate fragmented information when appropriate
 4. Create new sections or categories as needed
+5. Implement hierarchical organization when appropriate (see "Hierarchical Organization Pattern" below)
+
+#### Hierarchical Organization Pattern
+
+Implement a hierarchical organization pattern when files meet any of these criteria:
+
+1. **File Size**: Individual files exceed 1000 lines or 50KB
+2. **Content Growth**: Information is regularly added and will continue to grow
+3. **Navigation Challenges**: Finding specific information becomes difficult
+4. **Multiple Categories**: Content naturally falls into distinct categories
+5. **Reference Frequency**: Information is frequently referenced
+6. **Collaboration**: Multiple contributors work with the content simultaneously
+
+The hierarchical structure should be implemented through:
+
+1. **Index Files**: Each directory should have an index.md file providing navigation
+2. **Categories**: Content should be organized into logical categories
+3. **Subcategories**: Where needed, categories should be divided into subcategories
+4. **Individual Items**: Content should be stored in appropriately sized files
+
+##### Hierarchy Implementation Process
+
+When a file needs to be converted to a hierarchical structure:
+
+1. Create a new directory with the same base name as the original file
+2. Create an index.md file within this directory that will serve as the main entry point
+3. Break the content into logical categories and create subdirectories as needed
+4. For each category, create an index file and individual content files
+5. Ensure proper cross-references and navigation between all files
+6. Replace the original file with a redirect to the new index
+
+For example, transforming a large "updates.md" file:
+
+```
+updates/
+├── index.md                    # Main entry point with recent updates
+├── infrastructure/             # Infrastructure-related updates
+│   ├── index.md                # Index of infrastructure updates
+│   └── [individual updates]
+├── research/                   # Research-related updates
+│   ├── index.md                # Index of research updates
+│   └── [individual updates]
+```
 
 ### Special Cases
 

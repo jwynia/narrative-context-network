@@ -208,45 +208,98 @@ This file allows for flexibility in where the context network is actually stored
 
 ## Standard Context Network Structure
 
-While context networks can be flexible, a standard structure helps maintain consistency:
+While context networks can be flexible, a standard structure helps maintain consistency. Context networks should implement a hierarchical file organization pattern to improve navigation, scalability, and maintainability:
 
 ```
 context-network/
 ├── discovery.md                # Navigation guide for the overall network
 ├── foundation/                 # Core project information
+│   ├── index.md                # Foundation section index
 │   ├── project_definition.md   # Main project purpose and goals
 │   ├── architecture.md         # System architecture overview
 │   └── principles.md           # Guiding principles and standards
 ├── domains/                    # Domain-specific information
+│   ├── index.md                # Domains section index
 │   ├── domain_a/               # Information for domain A
+│   │   ├── index.md            # Domain A index
+│   │   └── [domain A content]  # Domain A specific content
 │   └── domain_b/               # Information for domain B
+│       ├── index.md            # Domain B index
+│       └── [domain B content]  # Domain B specific content
 ├── processes/                  # Process documentation
+│   ├── index.md                # Processes section index
 │   ├── development.md          # Development workflows
 │   ├── testing.md              # Testing procedures
 │   └── deployment.md           # Deployment processes
 ├── decisions/                  # Architecture and design decisions
+│   ├── index.md                # Decisions section index
 │   ├── decision_001.md         # Individual decision records
-│   └── decision_index.md       # Index of all decisions
+│   └── [other decisions]       # Other decision records
 ├── planning/                   # Planning documents
+│   ├── index.md                # Planning section index
 │   ├── roadmap.md              # Project roadmap
 │   └── milestones.md           # Milestone definitions
 ├── cross-domain/               # Cross-cutting concerns
+│   ├── index.md                # Cross-domain section index
 │   ├── dependencies.md         # Cross-component dependencies
 │   └── interfaces.md           # Interface definitions
 └── meta/                       # Information about the network itself
-    ├── update_log.md           # Record of network changes
-    └── maintenance.md          # Network maintenance procedures
+    ├── index.md                # Meta section index
+    ├── updates/                # Updates tracking (hierarchical)
+    │   ├── index.md            # Updates index
+    │   └── [category folders]  # Update categories with individual updates
+    ├── maintenance.md          # Network maintenance procedures
+    └── templates/              # Templates for content creation
+        ├── main_index_template.md     # For top-level indexes
+        ├── category_index_template.md # For category indexes
+        ├── subcategory_index_template.md # For subcategory indexes
+        └── item_template.md    # For individual items
+```
+
+### Hierarchical Organization Pattern
+
+As context networks grow, they benefit from a hierarchical organization pattern, which should be applied when:
+
+1. **File Size**: Individual files exceed 1000 lines or 50KB
+2. **Content Growth**: Information is regularly added and will continue to grow
+3. **Navigation Challenges**: Finding specific information becomes difficult
+4. **Multiple Categories**: Content naturally falls into distinct categories
+5. **Reference Frequency**: Information is frequently referenced
+6. **Collaboration**: Multiple contributors work with the content simultaneously
+
+The hierarchical structure is implemented through:
+
+1. **Index Files**: Each directory has an index.md file providing navigation
+2. **Categories**: Content is organized into logical categories
+3. **Subcategories**: Where needed, categories are divided into subcategories
+4. **Individual Items**: Content is stored in appropriately sized files
+
+For example, a monolithic updates file can be transformed into:
+
+```
+updates/
+├── index.md                    # Main entry point with recent updates
+├── infrastructure/             # Infrastructure-related updates
+│   ├── index.md                # Index of infrastructure updates
+│   └── [individual updates]
+├── research/                   # Research-related updates
+│   ├── index.md                # Index of research updates
+│   └── [individual updates]
 ```
 
 ## Information Node Templates
 
-Each information node should follow a structured format:
+The context network should provide templates for different levels of the hierarchy:
+
+### Main Index Template
+
+For top-level directory indexes:
 
 ```markdown
-# [Node Title]
+# [Content Type] Index
 
 ## Purpose
-[Concise explanation of this node's function within the network]
+This document serves as the main entry point for [content type], providing navigation to category-specific content and highlighting recent additions.
 
 ## Classification
 - **Domain:** [Primary knowledge area]
@@ -254,26 +307,126 @@ Each information node should follow a structured format:
 - **Abstraction:** [Conceptual/Structural/Detailed]
 - **Confidence:** [Established/Evolving/Speculative]
 
-## Content
-[Primary information organized in a structured format appropriate to the content type]
+## Categories
 
-## Relationship Network
-- **Prerequisite Information:** [Documents that should be understood first]
-- **Related Information:** [Documents with associative connections]
-- **Dependent Information:** [Documents that build on this information]
-- **Alternative Perspectives:** [Documents with different viewpoints]
-- **Implementation Details:** [Documents with more specific information]
+### [Category A]([relative link to category index])
+[Brief description of this category and its contents]
 
-## Navigation Guidance
-- **Access Context:** [When to use this information]
-- **Common Next Steps:** [Typical navigation paths from here]
-- **Related Tasks:** [Activities where this information is relevant]
-- **Update Patterns:** [How and when this information changes]
+### [Category B]([relative link to category index])
+[Brief description of this category and its contents]
+
+## Recent Additions
+
+### [Recent Item Title] - [Date]
+**Category:** [Category]
+**Status:** [Status]
+
+[Brief description of the item]
+
+[Link to full item]
+
+## Navigation Guide
+[Explanation of how to navigate the content structure]
+
+## Related Content
+[Links to related content in other parts of the context network]
 
 ## Metadata
 - **Created:** [Date]
 - **Last Updated:** [Date]
-- **Updated By:** [Agent ID/Task]
+- **Updated By:** [Person/Agent/Role]
+
+## Change History
+- [Date]: [Brief description of changes]
+```
+
+### Category Index Template
+
+For category-level indexes:
+
+```markdown
+# [Category Name] Index
+
+## Purpose
+This document indexes all [content type] related to [category name].
+
+## Classification
+- **Domain:** [Primary knowledge area]
+- **Stability:** [Static/Semi-stable/Dynamic]
+- **Abstraction:** [Conceptual/Structural/Detailed]
+- **Confidence:** [Established/Evolving/Speculative]
+
+## Subcategories
+
+### [Subcategory A]([relative link to subcategory index])
+[Brief description of this subcategory]
+
+### [Subcategory B]([relative link to subcategory index])
+[Brief description of this subcategory]
+
+## Items in this Category
+
+### [Item Title] - [Date]
+**Status:** [Status]
+
+[Brief description of the item]
+
+[Link to full item]
+
+## Related Categories
+- [Link to related category 1]
+- [Link to related category 2]
+
+## Navigation
+- [Link to parent index]
+- [Links to sibling categories]
+
+## Metadata
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Person/Agent/Role]
+
+## Change History
+- [Date]: [Brief description of changes]
+```
+
+### Individual Item Template
+
+For specific content items:
+
+```markdown
+# [Content Type]: [Title] - [Date]
+
+## Purpose
+[Brief explanation of the item's purpose and significance]
+
+## Classification
+- **Domain:** [Primary knowledge area]
+- **Stability:** [Static/Semi-stable/Dynamic]
+- **Abstraction:** [Conceptual/Structural/Detailed]
+- **Confidence:** [Established/Evolving/Speculative]
+- **Category:** [Item category]
+- **Status:** [Current status]
+
+## Content
+[Primary information organized in a structured format appropriate to the content type]
+
+## Related Items
+- [Link to related item 1]
+- [Link to related item 2]
+
+## Related Content
+- [Link to related content in other parts of the context network]
+
+## Navigation
+- [Link to parent subcategory/category index]
+- [Link to previous chronological item (if applicable)]
+- [Link to next chronological item (if applicable)]
+
+## Metadata
+- **Created:** [Date]
+- **Last Updated:** [Date]
+- **Updated By:** [Person/Agent/Role]
 
 ## Change History
 - [Date]: [Brief description of changes]
@@ -297,6 +450,7 @@ Establish clear triggers for updates:
 - Information creation triggers
 - Information change triggers
 - Information deprecation triggers
+- Size-based restructuring triggers (when files exceed 1000 lines/50KB)
 
 ### 3. Context Drift Prevention
 
@@ -304,6 +458,7 @@ Implement techniques to prevent gradual context erosion:
 - Consistency verification
 - Context realignment
 - Information refactoring
+- Hierarchical structure monitoring
 
 ### 4. Collaborative Maintenance Techniques
 
@@ -311,6 +466,16 @@ For multi-contributor networks:
 - Clear responsibility assignment
 - Change communication protocols
 - Collaborative editing processes
+- Hierarchical ownership delegation
+
+### 5. Hierarchical Structure Management
+
+Maintain the hierarchical structure through:
+- Regular assessment of file sizes and content growth
+- Breaking down large files into appropriate hierarchies
+- Creating and updating index files at all levels
+- Ensuring proper cross-references and navigation links
+- Maintaining templates for consistent additions
 
 ## Practical Implementation for AI Agent Systems
 
